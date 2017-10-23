@@ -105,4 +105,4 @@ service-worker: true
 #    }
 # ]
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-architect
